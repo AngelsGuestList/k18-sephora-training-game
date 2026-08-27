@@ -1,18 +1,17 @@
 # CCI CREW TRAINING
 
-K18 sales training for the Ft Apache Sephora floor.
+K18 product-knowledge game for Sephora / CCI Crew.
 Created by Angel Colon.
 
-## This will not play inside a Grok chat card
+## Preview on your phone
 
-Grok chat and Grok Build previews block audio, video, and most JavaScript. That is why the triangle looks dead in-chat.
+Grok chat cannot run this app. Download the zip and open it in Chrome.
 
-## Play it for real (phone)
+Drive copy: https://drive.google.com/file/d/1bU__PyWvkLBn3ZUkTzfCqrSlKzH9XSxn/view
 
-1. Download the folder zip from Google Drive: https://drive.google.com/file/d/1G-TyXcxt5I9pWJPFEoo_FyIIs9PXCHeZ/view
-2. Unzip.
-3. Keep `index.html` next to the `media/` folder. Do not separate them.
-4. Open `index.html` in Chrome.
-5. Tap the white triangle.
+1. Download `CCI-CREW-TRAINING.zip`
+2. Extract the whole folder (`index.html` + `media/`)
+3. Tap `index.html` → Chrome
+4. Tap the white triangle
 
-Repo: https://github.com/AngelsGuestList/k18-sephora-training-game
+To host a tap-to-open link: GitHub → this repo → Settings → Pages → Deploy from **main** / root. Upload the `media/` folder first or images will be missing.
